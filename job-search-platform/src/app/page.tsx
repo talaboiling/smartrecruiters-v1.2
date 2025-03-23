@@ -13,7 +13,7 @@ export default function Home() {
         <div className="container mx-auto flex items-center justify-between py-4">
           <div className="flex items-center gap-8">
             <Link href="/" className="text-2xl font-bold text-blue-600">
-              JobFinderKZ
+              SmartRecruiters
             </Link>
             <NavigationMenu>
               <nav className="flex items-center space-x-4">
