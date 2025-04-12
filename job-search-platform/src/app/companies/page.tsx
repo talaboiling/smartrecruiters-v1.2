@@ -13,7 +13,7 @@ export default function CompaniesPage() {
         <div className="container mx-auto flex items-center justify-between py-4">
           <div className="flex items-center gap-8">
             <Link href="/" className="text-2xl font-bold text-blue-600">
-              JobFinderKZ
+              SmartRecruiters
             </Link>
             <NavigationMenu>
               <nav className="flex items-center space-x-4">
@@ -157,7 +157,7 @@ export default function CompaniesPage() {
         <div className="container mx-auto">
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div>
-              <h3 className="text-lg font-semibold mb-4">JobFinderKZ</h3>
+              <h3 className="text-lg font-semibold mb-4">SmartRecruiters</h3>
               <p className="text-gray-400 text-sm">
                 The leading job search platform in Kazakhstan helping professionals find their dream jobs.
               </p>
@@ -181,7 +181,7 @@ export default function CompaniesPage() {
             </div>
           </div>
           <div className="border-t border-gray-800 mt-8 pt-8 text-sm text-gray-400">
-            <p>© 2025 JobFinderKZ. All rights reserved.</p>
+            <p>© 2025 SmartRecruiters. All rights reserved.</p>
           </div>
         </div>
       </footer>

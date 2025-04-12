@@ -6,7 +6,7 @@ import { Toaster } from "sonner";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "JobFinderKZ - Find Your Dream Job",
+  title: "SmartRecruiters - Find Your Dream Job",
   description: "Job search platform for finding the best jobs in Kazakhstan and beyond",
 };
 

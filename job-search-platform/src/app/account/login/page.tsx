@@ -30,7 +30,7 @@ export default function LoginPage() {
         <div className="container mx-auto flex items-center justify-between py-4">
           <div className="flex items-center gap-8">
             <Link href="/" className="text-2xl font-bold text-blue-600">
-              JobFinderKZ
+              SmartRecruiters
             </Link>
           </div>
           <div>
@@ -125,7 +125,7 @@ export default function LoginPage() {
       <footer className="bg-gray-900 text-white py-8">
         <div className="container mx-auto text-center">
           <p className="text-sm text-gray-400">
-            © 2025 JobFinderKZ. All rights reserved.
+            © 2025 SmartRecruiters. All rights reserved.
           </p>
         </div>
       </footer>
